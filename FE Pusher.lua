@@ -15,7 +15,7 @@
 --https://www.roblox.com/catalog/2493718915/The-High-Seas-Beatrix-The-Pirate-Queen-Hat
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/DigitalityScripts/roblox-scripts/main/hat%20resize%20%2B%20drop'))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Neeedrose/rouxhaverarchive/main/freecam.lua?token=GHSAT0AAAAAACRPWIE4R4W5IFFBAFKZQU6GZTFC4QA"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Neeedrose/rouxhaverarchive/main/freecam.lua"))()
 
 ToggleFreecam() -- Remove this if you don't want free cam or etcetera
 
